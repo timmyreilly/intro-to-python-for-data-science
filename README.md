@@ -63,3 +63,22 @@ We're going to install [requests](http://docs.python-requests.org/en/master/)
 $ pip install requests
 ```
 
+# Order We'll Cover: 
+```
+helloworld.py 
+sentence.py
+user_input.py
+first.py
+lists.py
+number_strings.py
+function.py
+dictionaries.py
+formatting.py
+random_practice.py
+using_classes.py (person_class.py + employee.py) 
+file.py
+exceptions
+command_line_arguments.py
+pandas.py
+science.py 
+```
