@@ -44,8 +44,13 @@ g.to_csv('sample')
 
 # Let's vizualize!
 
-plt.boxplot(g) 
-
-k = h.plot.box() 
+h.plot.box() 
+i.plot.box()
+j.plot.box()
 
 plt.show() 
+
+# Now let's combine them
+
+g.boxplot(by="Lane_Type")
+
